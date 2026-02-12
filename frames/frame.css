@@ -1,0 +1,9 @@
+::-webkit-scrollbar { display: none; }
+
+body {
+    padding-right: 30px;
+}
+
+img {
+    border: 1px solid black;
+}
